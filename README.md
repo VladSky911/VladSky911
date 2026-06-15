@@ -45,4 +45,3 @@ Job Application Tracker — fullstack app with auth, file uploads, filters, and 
 
 - Email: [vladimiryelisyeyev@gmail.com](mailto:vladimiryelisyeyev@gmail.com)
 - Telegram: @vlad_vsdc
-- GitHub: [VladSky911](https://github.com/VladSky911)
