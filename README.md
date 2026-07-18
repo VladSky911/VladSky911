@@ -7,7 +7,6 @@ My focus right now is AI-assisted development, agents, automations, and product-
 
 What I do
 
-
 Build web apps and internal tools
 Use AI daily for coding, prototyping, debugging, and research
 Create automations with n8n and API integrations
