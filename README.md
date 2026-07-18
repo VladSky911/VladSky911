@@ -1,11 +1,11 @@
-Hi, I'm Vladimir 👋
+##Hi, I'm Vladimir 👋
 
-AI Developer · Vibe Coder · Fullstack Builder
+#AI Developer · Vibe Coder · Fullstack Builder
 
 I build web products, AI automations, and small tools that solve real tasks fast.
 My focus right now is AI-assisted development, agents, automations, and product-driven web work.
 
-What I do
+##What I do
 
 Build web apps and internal tools
 Use AI daily for coding, prototyping, debugging, and research
@@ -14,7 +14,7 @@ Work on AI products, bots, and workflow-based systems
 Turn rough ideas into working solutions
 
 
-Tech Stack
+##Tech Stack
 
 Languages: JavaScript, TypeScript, Python
 Frontend: React, Next.js, HTML, CSS, Bootstrap
@@ -53,7 +53,7 @@ Neural Notes
 
 AI-first mobile note-taking app built with React Native (Expo). Turns raw text into summaries, structured insights, tags, and rewritten content.
 
-What I'm into now
+##What I'm into now
 
 
 AI-assisted development
@@ -63,7 +63,7 @@ building useful tools quickly
 product work with a practical result
 
 
-Contact
+##Contact
 
 
 Email: vladimiryelisyeyev@gmail.com
