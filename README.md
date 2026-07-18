@@ -24,13 +24,13 @@ My focus right now is AI-assisted development, agents, automations, and product-
 
 ## Featured Projects
 
-### [TalkForge](https://github.com/VladSky911/talkforge)
+### [TalkForge](https://github.com/vlad-vsdc/talkforge)
 AI Language Tutor — a project for language practice with AI-powered feedback and interaction.
 
-### [Neural Notes](https://github.com/VladSky911/neural-notes)
+### [Neural Notes](https://github.com/vlad-vsdc/neural-notes)
 AI-powered notes app with summarization, tags, and rewriting features.
 
-### [Applikraft](https://github.com/VladSky911/applikraft)
+### [Applikraft](https://github.com/vlad-vsdc/applikraft)
 Job Application Tracker — fullstack app with auth, file uploads, filters, and multilingual UI.
 
 ## What I'm into now
